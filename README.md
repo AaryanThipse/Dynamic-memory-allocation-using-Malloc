@@ -14,6 +14,9 @@ The “malloc” or “memory allocation” method in C is used to dynamically a
 ptr = (cast-type*) malloc(byte-size)<br>
 <br>
 ![image](https://user-images.githubusercontent.com/124968304/234002080-5b95e721-a39a-4a23-84ac-38caff4bdd63.png)<br>
+<br>
+<br>
+<b><ins>Output-</b></ins><br>
 <img width="946" alt="malloc" src="https://user-images.githubusercontent.com/124968304/234004412-52236eb5-da74-452d-97e2-ecbbe6cca1c2.png">
 
 
