@@ -1,1 +1,1 @@
-# Dynamic-memory-allocation-using-Mallock
+# Dynamic-memory-allocation-using-Malloc-
