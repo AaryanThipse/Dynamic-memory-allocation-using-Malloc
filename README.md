@@ -18,7 +18,6 @@ ptr = (cast-type*) malloc(byte-size)<br>
 <br>
 <b><ins>Output-</b></ins><br>
 <br>
-<br>
 <img width="946" alt="malloc" src="https://user-images.githubusercontent.com/124968304/234004412-52236eb5-da74-452d-97e2-ecbbe6cca1c2.png">
 
 
